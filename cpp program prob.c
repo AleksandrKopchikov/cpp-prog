@@ -8,7 +8,7 @@
 for (int i = 0; i < significative; i++) {
     result *= base;
 }
-printf("%d powerd by %d is %d \n", base, significative,result);
+printf("%d powerd by %d is %d \n", base, significative,result);;;
 
 
 
